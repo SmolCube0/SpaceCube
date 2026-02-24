@@ -1,7 +1,8 @@
 # Overview:
-Space Company is a science-fiction incremental game where you start from humble beginnings on Earth, working your way up to travelling between star systems and building Dyson Spheres and pretty much colonising the entire galaxy(ies?)
+Space Company is a science-fiction incremental game made by use Sparticle999 where you start from humble beginnings on Earth, working your way up to travelling between star systems and building Dyson Spheres and pretty much colonising the entire galaxy(ies?)
 
-Development has stopped, however, several projects have been created based on this you may wish to try.
+Development has stopped by the original creator
+I will use this project to further my js skillz
 
 # Derived projects from members in the community
 - https://play.google.com/store/apps/details?id=com.freddecgames.ngsc Mobile Port by Freddec
@@ -10,11 +11,10 @@ Development has stopped, however, several projects have been created based on th
 - https://github.com/migue1s/SpaceCompanyNative Mobile Port by migue1s
 - https://github.com/SpiderGamin/SpaceCompany-Desktop Desktop Application by SpiderGamin
 - 
-# Former Plans for the Future
+# Plans for the Future
 - Check https://www.reddit.com/r/SpaceCompany/wiki/futureplans
 - When loading game, the tab you left on is the tab you now start on
 - Random Events
-- [Change UI from bootstrap to my own]
 
 
 # RoadMap
